@@ -16,3 +16,4 @@ Flask-Uploads
 Flask-WTF
 marshmallow
 marshmallow-sqlalchemy
+gunicorn
